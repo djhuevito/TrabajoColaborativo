@@ -1,9 +1,0 @@
-int multiplicacion(int a, int b) {
-	return a * b;
-}
-
-int main() {
-	saludo();
-	printf("Multiplicación: 5 * 6 = %d\n", multipliación(5, 6));
-	return 0;
-}
