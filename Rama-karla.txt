@@ -7,3 +7,7 @@ int main() {
 	printf("Suma: 3 + 4 = %d\n", suma(3, 4));
 	return 0;
 }
+
+
+By: Guaña Karla
+
