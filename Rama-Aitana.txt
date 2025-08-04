@@ -1,0 +1,13 @@
+float dividir(float a, float b) {
+	return a / b;
+}
+
+int main() {
+	float x = 10;
+	float y = 2;
+	float resultado = dividir(x, y);
+	
+	printf("Resultado: %.2f\n", resultado);
+	
+	return 0;
+}
