@@ -1,4 +1,4 @@
-Trabajo Paula Granda, Edición Trabajo Colaborativo
+//Trabajo Paula Granda, Edición Trabajo Colaborativo
 int resta(int a, int b) {
     return a - b;
 }
