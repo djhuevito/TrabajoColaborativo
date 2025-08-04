@@ -1,0 +1,10 @@
+//Trabajo Paula Granda, Edición Trabajo Colaborativo
+int resta(int a, int b) {
+    return a - b;
+}
+
+int main() {
+    saludo();
+    printf("Resta: 7 - 2 = %d\n", resta(7, 2));
+    return 0;
+}
